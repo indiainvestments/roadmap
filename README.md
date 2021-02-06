@@ -14,3 +14,5 @@ You can reach out to us on
 
 - [Discord](https://discord.gg/hqBNg4u)
 - [Reddit ModMail](https://www.reddit.com/r/IndiaInvestments/)
+
+### [View Roadmap](https://github.com/indiainvestments/roadmap/issues)
