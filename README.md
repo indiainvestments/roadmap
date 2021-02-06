@@ -1,3 +1,5 @@
+[![Discord Chat](https://img.shields.io/discord/546638391127572500.svg)](https://discord.gg/hqBNg4u)  [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/IndiaInvestments?style=social)](https://www.reddit.com/r/IndiaInvestments/)
+
 # Roadmap for r/IndiaInvestments
 
 A public roadmap of things we want to achieve!
