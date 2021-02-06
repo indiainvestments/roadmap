@@ -10,7 +10,7 @@ Our product roadmap is where you can learn about what changes we've been working
 
 Have any questions or comments about items on the roadmap?
 
-You can read out to us on
+You can reach out to us on
 
 - [Discord](https://discord.gg/hqBNg4u)
 - [Reddit ModMail](https://www.reddit.com/r/IndiaInvestments/)
