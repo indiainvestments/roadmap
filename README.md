@@ -16,3 +16,11 @@ You can reach out to us on
 - [Reddit ModMail](https://www.reddit.com/r/IndiaInvestments/)
 
 ### [View Roadmap](https://github.com/indiainvestments/roadmap/issues)
+
+### Public Journey Board
+
+Roadmap is about long-term vision. In the short-term, teams can get confused with respect to what all is being worked upon right now, what needs to be picked up next etc.
+
+[We've created a public Trello board to communicate and update community on our continuous progress](https://trello.com/b/NPlSa3C7/journey-board).
+
+This is the result of breaking down lofty roadmaps into achievable units of work. We try to plan for the next week, and pick up tasks accordingly. Then we take stock of what all got shipped over the week.
